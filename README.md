@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on a SP Game using C++.<br>I’m looking for help with Docker and Deployment.<br>I’m currently learning AI, Soft Dev , OS<br>I can solve a Rubik's cube in under a minute.
+I can solve a Rubik's cube in under a minute.
 
 
 ## 🌐 Socials:
